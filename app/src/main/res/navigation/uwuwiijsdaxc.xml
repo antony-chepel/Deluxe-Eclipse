@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_main"
+    app:startDestination="@id/jicxvokckovxidsdf">
+
+    <fragment
+        android:id="@+id/jicxvokckovxidsdf"
+        android:name="com.kooapps.stackybird.rwerasd.Cosokkowoksdiixc"
+        android:label="nivcijhudsfe"
+        tools:layout="@layout/uxziocijjid" >
+        <action
+            android:id="@+id/eplwlpqoksd"
+            app:destination="@id/mkcxuygtfdfe" />
+    </fragment>
+    <fragment
+        android:id="@+id/nkcivuyggydsfhue"
+        android:name="com.kooapps.stackybird.wwqsda.Mdodosiucygxv"
+        android:label="cfoovkcijuhsd"
+        tools:layout="@layout/goofkdokejiwasd" >
+        <action
+            android:id="@+id/apsokxkocjuchhuv"
+            app:destination="@id/iwoowkisjxc" />
+    </fragment>
+    <fragment
+        android:id="@+id/xpzpsodijsef"
+        android:name="com.kooapps.stackybird.wwqsda.Hgrctxtfxdf"
+        android:label="gftfduijicvx"
+        tools:layout="@layout/ncnxjvijsijd" />
+    <fragment
+        android:id="@+id/iwoowkisjxc"
+        android:name="com.kooapps.stackybird.twef.Yrwoqiijwsda"
+        android:label="jvkckijuhdf"
+        tools:layout="@layout/vifuddoskkofeds" >
+        <action
+            android:id="@+id/sosoaiajdxc"
+            app:destination="@id/xpzpsodijsef" />
+    </fragment>
+    <fragment
+        android:id="@+id/mkcxuygtfdfe"
+            android:name="com.kooapps.stackybird.asd.Qioiwjsiokc"
+        android:label="qppwoksijxcz">
+        <action
+            android:id="@+id/cuuxjvjujudjs"
+            app:destination="@id/nkcivuyggydsfhue" />
+    </fragment>
+</navigation>

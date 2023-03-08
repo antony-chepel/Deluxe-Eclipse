@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Deluxe Eclipse</string>
+    <string name="camera_permission_granted_txt">Permission granted</string>
+    <string name="facebook_client_token">660d811464cbf37107c1621a177a01cc</string>
+    <string name="camera_permission_denied_txt">Permission denied</string>
+    <string name="fb_login_protocol_scheme">fb740920387745553</string>
+    <string name="facebook_app_id">740920387745553</string>
+    <string name="cannot_open_file_chooser_txt">Can not open file chooser</string>
+
+
+</resources>

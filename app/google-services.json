@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "733277171487",
+    "project_id": "deluxe-eclipse",
+    "storage_bucket": "deluxe-eclipse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733277171487:android:b396f439a54a85391a0a2a",
+        "android_client_info": {
+          "package_name": "com.kooapps.stackybird"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733277171487-h49b21ocgt44f3btbt3nl3hul2ut2qq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwlPQhpFWQMFsP0HzvFwcyoNU4et61ZMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733277171487-h49b21ocgt44f3btbt3nl3hul2ut2qq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
